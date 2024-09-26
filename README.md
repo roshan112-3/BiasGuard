@@ -11,3 +11,14 @@ The topic of Ethical AI Monitoring is deeply rooted in the intersection of artif
 
 
 The website link to this project is available at: [Link](https://bankloanbias.wordpress.com/)
+
+
+### Bibliography
+
+https://ffiec.cfpb.gov/
+https://www.ibm.com/opensource/open/projects/ai-fairness-360/
+https://youtu.be/X1NsrcaRQTE?si=QgkBB2lSODc_eVNE
+https://files.consumerfinance.gov/f/documents/cfpb_beginners-guide-accessing-using-hmda-data_guide_2022-06.pdf
+https://www.openintro.org/data/index.php?data=loans_full_schema
+https://www.kaggle.com/datasets/parisrohan/credit-score-classification?resource=download
+
